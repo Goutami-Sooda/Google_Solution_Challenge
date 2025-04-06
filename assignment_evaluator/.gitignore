@@ -1,0 +1,3 @@
+venv/
+evaluator.db
+.env
