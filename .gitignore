@@ -1,8 +1,8 @@
 #virtual env
 google/
-
 token.pickle
-
 credentials.json
-
 __pycache__/
+venv/
+evaluator.db
+.env
