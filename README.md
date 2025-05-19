@@ -97,4 +97,4 @@ python app.py
 
 ## 🙌 Acknowledgements
 
-Built as part of Google Solution Challenge 2025
+A modular MVP built as part of Google Solution Challenge 2025
